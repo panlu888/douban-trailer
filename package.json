@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/panlu888/douban-trailer#readme",
   "dependencies": {
-    "koa": "^2.5.3"
+    "koa": "^2.5.3",
+    "koa-views": "^6.1.4",
+    "pug": "^2.0.3"
   }
 }
